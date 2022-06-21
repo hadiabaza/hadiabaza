@@ -2,7 +2,7 @@
 ___
 Junior Full-Stack Web Developer
 ___
-Full-Stack Web Developer with experience in React, Ruby, Ruby on Rails, and JavaScript-based programming with a background in Business Administration and Real Estate.
+Junior Full-Stack Web Developer with experience in React, Ruby, Ruby on Rails, and JavaScript-based programming with a background in Business Administration and Real Estate.
 
 - 🎓 Recent grad from the Flatiron School Software Engineering Bootcamp
 - 🌍 I'm based in Brooklyn, NY
